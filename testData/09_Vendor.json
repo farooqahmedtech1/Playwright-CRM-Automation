@@ -1,0 +1,4 @@
+{"url":"http://localhost:8888/index.php?action=Login&module=Users","username":"admin","pwd":"admin",
+"VendorName":"TechNova Solutions","Email":"support@technova.example","Category":"Software","Phone":"9876543210",
+"Website":"https://www.technova.example","Street":"Sarjapura","City":"Bangalore","State":"Karnataka",
+"PostalCode":"560001", "Country":"India", "Description":"Software vendor providing CRM solutions, software products, technical support, and automation services"}

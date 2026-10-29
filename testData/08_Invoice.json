@@ -1,0 +1,4 @@
+{"url":"http://localhost:8888/index.php?action=Login&module=Users","username":"admin","pwd":"admin",
+"Subject":"CRM Software Quote","DueDate":"2027-10-22","InvoiceDate":"2026-10-22","BillingAddress":"Farooq Ahmed, Rajajinagar,Bangalore","BillingCity":"Bangalore",
+"BillingState":"Karnataka","BillingPostalCode":"581102", "BillingCountry":"India","shippingAdress":"Farooq Ahmed, Rajajinagar,Bangalore","Qty":"1",
+"ListPrice":"500000"}
