@@ -46,11 +46,11 @@ export default defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] ,
-      headless: false,
+      headless: true,
       storageState: 'playwright/.auth/user.json',
       },
       dependencies: ['setup'],
-      testIgnore: /auth\.setup\.js/,
+      // testIgnore: /auth\.setup\.js/,
     },
 
     // {
