@@ -50,7 +50,7 @@ export default defineConfig({
       storageState: 'playwright/.auth/user.json',
       },
       dependencies: ['setup'],
-      // testIgnore: /auth\.setup\.js/,
+      testIgnore: /auth\.setup\.js/,
     },
 
     // {
