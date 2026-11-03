@@ -6,7 +6,7 @@ import { defineConfig, devices } from '@playwright/test';
  * https://github.com/motdotla/dotenv
  */
 import dotenv from 'dotenv';
-import path from 'path';
+import path from 'path'; // Imports Node.js path module.
 dotenv.config({ path: path.resolve(process.cwd(), '.env') });
 
 /**
