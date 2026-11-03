@@ -40,6 +40,7 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
+      //Creates a project named setup. This project is responsible for executing authentication setup test
             name: 'setup',
             testMatch: /auth\.setup\.js/,
     },
